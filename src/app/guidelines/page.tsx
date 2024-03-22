@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center py-12 px-64 p-md-12">
+    <main className="flex min-h-screen flex-col items-center md:px-64 p-12">
       <h1 className="font-bold text-3xl pb-16">Guidelines For Application</h1>
       <h2 className="font-bold text-xl text-left w-full pb-2">
         What is a Mix?
