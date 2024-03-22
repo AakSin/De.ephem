@@ -12,14 +12,14 @@ export default function Home() {
         tracks, often seamlessly blended together, that are played over the
         course of the show. These mixes are typically crafted by radio show
         curators and can span various genres and styles, depending on the theme
-        of the show or the curator’s personal taste.
+        of the show or the curator's personal taste.
       </p>
       <h2 className="font-bold text-xl text-left w-full pb-2">Show Format</h2>
 
       <ul className="list-disc pb-6">
         <li>
           <strong>Curated/organized mix:</strong> A tailored curation that
-          speaks for itself and doesn’t need the presenter talking to explain
+          speaks for itself and doesn't need the presenter talking to explain
           its thematic overtures.{" "}
         </li>
 
@@ -67,8 +67,8 @@ export default function Home() {
 
       <ul className="list-disc pb-6">
         <li>
-          Radio for remembrance doesn’t necessarily mean music of the old. We
-          need to archive things of the present too, so the future doesn’t
+          Radio for remembrance doesn't necessarily mean music of the old. We
+          need to archive things of the present too, so the future doesn't
           forget them.
         </li>
         <li>
@@ -78,12 +78,12 @@ export default function Home() {
           countries, to abstract clusters like “Global South.”{" "}
         </li>
         <li>
-          The music doesn’t have to be experimental, “boring”, atonal,
+          The music doesn't have to be experimental, “boring”, atonal,
           traditional, nationalistic or necessarily political. We need to
           archive pop as much as we need to archive folk songs.
         </li>
         <li>
-          If your show doesn’t necessarily fit in with any of the above general
+          If your show doesn't necessarily fit in with any of the above general
           guidelines, do have a clear rationale, reason, or thematic
           overture/arc still as to why you are playing these specific songs.
           Should these songs be played together in this sequence to illustrate
@@ -92,7 +92,7 @@ export default function Home() {
         <li>
           Most importantly play music you like and are passionate about.
           Researching and finding new forms of music that you would like to
-          preserve/ hold a personal connection. Again, this doesn’t have to be
+          preserve/ hold a personal connection. Again, this doesn't have to be
           music you know perfectly well and everything about. In fact, use the
           platform to learn, research and exhibit/share with others.{" "}
         </li>
