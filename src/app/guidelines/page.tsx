@@ -8,8 +8,8 @@ export default function Home() {
         What is a Mix?
       </h2>
       <p className="pb-6">
-        In the context of radio shows, a "mix" refers to a curated set of
-        tracks, often seamlessly blended together, that are played over the
+        In the context of radio shows, a &quot;mix&quot; refers to a curated set
+        of tracks, often seamlessly blended together, that are played over the
         course of the show. These mixes are typically crafted by radio show
         curators and can span various genres and styles, depending on the theme
         of the show or the curator&apos;s personal taste.
