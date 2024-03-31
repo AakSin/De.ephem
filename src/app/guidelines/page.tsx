@@ -99,8 +99,8 @@ export default function Home() {
         <li>
           This is not merely an academic or political exercise or an
           experimental media practice. In the end, we serve as a platform to
-          enjoy music and create a fun, encouraging, nurturing, learning
-          communal experience first.{" "}
+          enjoy music and create an encouraging, nurturing and communal
+          experience first.{" "}
         </li>
       </ul>
     </main>
